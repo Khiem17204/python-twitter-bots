@@ -1,2 +1,2 @@
 # python-twitter-bots
-A twitter bots using python library tweepy and docker, aws for server
+A twitter bots using python library tweepy to tweet support Ronaldo
